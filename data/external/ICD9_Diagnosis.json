@@ -1,0 +1,24 @@
+{
+    "numeric": 
+        {
+            "001,139": {"description": "Infectious And Parasitic Diseases", "short": "InfectiousDiseases"},
+            "140,239": {"description": "Neoplasms", "short": "Neoplasms"},
+            "240,279": {"description": "Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders", "short": "EndocrineDiseases"},
+            "280,289": {"description": "Diseases Of The Blood And Blood-Forming Organs", "short": "BloodDiseases"},
+            "290,319": {"description": "Mental Disorders", "short": "MentalDisorders"},
+            "320,389": {"description": "Diseases Of The Nervous System And Sense Organs", "short": "NervousSystemDiseases"},
+            "390,459": {"description": "Diseases Of The Circulatory System", "short": "CirculatorySystemDiseases"},
+            "460,519": {"description": "Diseases Of The Respiratory System", "short": "RespiratorySystemDiseases"},
+            "520,579": {"description": "Diseases Of The Digestive System", "short": "DigestiveSystemDiseases"},
+            "580,629": {"description": "Diseases Of The Genitourinary System", "short": "GenitourinarySystemDiseases"},
+            "630,677": {"description": "Complications Of Pregnancy, Childbirth, And The Puerperium", "short": "PregnancyComplications"},
+            "680,709": {"description": "Diseases Of The Skin And Subcutaneous Tissue", "short": "SkinDiseases"},
+            "710,739": {"description": "Diseases Of The Musculoskeletal System And Connective Tissue", "short": "MusculoskeletalDiseases"},
+            "740,759": {"description": "Congenital Anomalies", "short": "CongenitalAnomalies"},
+            "760,779": {"description": "Certain Conditions Originating In The Perinatal Period", "short": "PerinatalConditions"},
+            "780,799": {"description": "Symptoms, Signs, And Ill-Defined Conditions", "short": "SymptomsSignsConditions"},
+            "800,999": {"description": "Injury And Poisoning", "short": "InjuryAndPoisoning"}
+        },
+    "E":{"description": "External Causes Of Injury And Poisoning", "short": "ExternalCausesOfInjuryAndPoisoning"},
+    "V":{"description": "Supplementary Classification Of Factors Influencing Health Status And Contact With Health Services", "short": "SupplementaryFactorsInfluencingHealth"}
+}

@@ -1,0 +1,100 @@
+{
+  "General": [
+    "InternalMedicine",
+    "Family/GeneralPractice",
+    "Hospitalist",
+    "Osteopath"
+  ],
+  "Pediatrics": [
+    "Pediatrics",
+    "Pediatrics-Endocrinology",
+    "Pediatrics-CriticalCare",
+    "Pediatrics-Pulmonology",
+    "Pediatrics-Hematology-Oncology",
+    "Pediatrics-Neurology",
+    "Pediatrics-EmergencyMedicine",
+    "Pediatrics-InfectiousDiseases",
+    "Pediatrics-AllergyandImmunology",
+    "Cardiology-Pediatric",
+    "Anesthesiology-Pediatric",
+    "Surgery-Pediatric",
+    "Psychiatry-Child/Adolescent"
+  ],
+  "Surgery": [
+    "Surgery-General",
+    "Surgery-Cardiovascular/Thoracic",
+    "Surgery-Neuro",
+    "Surgery-Colon&Rectal",
+    "Surgery-Plastic",
+    "Surgery-Thoracic",
+    "Surgery-PlasticwithinHeadandNeck",
+    "Surgery-Maxillofacial",
+    "Surgery-Vascular",
+    "Surgery-Cardiovascular",
+    "Surgeon",
+    "SurgicalSpecialty",
+    "Proctology",
+    "Orthopedics",
+    "Orthopedics-Reconstructive",
+    "Otolaryngology",
+    "Urology",
+    "Ophthalmology"
+  ],
+  "Obstetrics": [
+    "Obsterics&Gynecology-GynecologicOnco",
+    "ObstetricsandGynecology",
+    "Gynecology",
+    "Obstetrics",
+    "Perinatology"
+  ],
+  "Internal_Medicine_Sub-specialties": [
+    "Cardiology",
+    "Gastroenterology",
+    "Nephrology",
+    "Pulmonology",
+    "Endocrinology",
+    "Endocrinology-Metabolism",
+    "InfectiousDiseases",
+    "Rheumatology",
+    "AllergyandImmunology",
+    "Dermatology"
+  ],
+  "Hematology_Oncology": [
+    "Hematology/Oncology",
+    "Oncology",
+    "Hematology"
+  ],
+  "Mental_Health": [
+    "Psychiatry",
+    "Psychology",
+    "Psychiatry-Addictive"
+  ],
+  "Neurological_Specialties": [
+    "Neurology",
+    "Neurophysiology"
+  ],
+  "Diagnostic_Specialties": [
+    "Radiology",
+    "Radiologist",
+    "Pathology",
+    "Anesthesiology"
+  ],
+  "Rehabilitation_Therapies": [
+    "PhysicalMedicineandRehabilitation",
+    "SportsMedicine",
+    "Podiatry",
+    "Speech"
+  ],
+  "Other_Specific_Specialties": [
+    "Emergency/Trauma",
+    "Dentistry"
+  ],
+  "Non-Clinical_Unknown": [
+    "nan",
+    "Unknown",
+    "PhysicianNotFound",
+    "DCPTEAM",
+    "OutreachServices",
+    "Resident"
+  ]
+}
